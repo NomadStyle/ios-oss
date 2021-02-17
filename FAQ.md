@@ -1,4 +1,4 @@
-NomadStyle Kickstarter 
+# NomadStyle Kickstarter 
 
 Kickstarter stuff
 Multithreating
