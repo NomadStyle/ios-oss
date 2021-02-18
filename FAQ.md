@@ -1,14 +1,14 @@
 # NomadStyle Kickstarter 
 
 
-##Multithreating
+## Multithreating
 
-##Assets
+## Assets
 
 In each project there is assets file where you can add colours or images. These elements are customisable. To use them you need to add reference in code to the element name in assets folder.
 
 
-##External dependencies
+## External dependencies
 
 CocoaPods
 Gemfiles
@@ -17,13 +17,13 @@ Importing external libraries straightforward into project file
 API
 
 
-##Automation
+## Automation
 
 Make file
 Scripts
 
 
-##Distribution
+## Distribution
 
 Before distributing app to App Store we need to prepare it.
 At first we have to declare bundle ID, build string, app icon, and launch screen of our application.
@@ -34,24 +34,24 @@ Set App Category - Kickstarter.xcodeproj - General - Identity - App Category
 Assign a project to a team
 
 
-##Building UI
+## Building UI
 
 There are two ways to create interface in Xcode. 1 - By using storyboard to create your interface by choosing elements from library and customise them
 2 - Write code manually
 View Models
 
 
-##Networking
+## Networking
 
 API
 
 
-##Codestyle
+## Codestyle
 
 Format of Swift language
 
 
-##Persistance
+## Persistance
 
 Information about persistance in project - Kickstarter/KsAPI
 Currency settings 
@@ -60,12 +60,12 @@ Data
 Profile settings
 
 
-##Project configuration
+## Project configuration
 
 
-##Testing
+## Testing
 Files for testing working capacity of separate blocks of code. Each test file has their own task to check.
 
 
-##Design pattern
+## Design pattern
 This is code templates for your app design
